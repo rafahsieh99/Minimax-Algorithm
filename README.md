@@ -30,9 +30,9 @@ La función de evaluación calcula la distancia de Manhattan entre el gato y el 
 La distancia de Manhattan, también conocida como distancia de bloque o distancia
  , es una medida de distancia en un espacio métrico donde solo se permiten movimientos horizontales y verticales (similar a cómo se movería en una cuadrícula de calles de una ciudad). En un plano cartesiano, la distancia de Manhattan entre dos puntos y se calcula como la suma de las diferencias absolutas de sus coordenadas.
 
-#### Ejecución del Juego
+## Ejecución del Juego
 El juego se ejecuta en un bucle mientras el gato no atrape al ratón y el número de movimientos sea menor al máximo permitido.
 
-#### Requisitos
+## Requisitos
 Python.
 Importar la libreria random.
